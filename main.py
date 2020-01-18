@@ -1,6 +1,6 @@
 # import packages
 import pyttsx3                              # text to speech (https://github.com/nateshmbhat/pyttsx3)
-import speech_recognition as sr             # speech recognition
+import speech_recognition as sr             # speech recognition (https://github.com/Uberi/speech_recognition)
 import datetime                             # access date and time
 import wikipedia                            # access wikipedia content from the python program
 import webbrowser                           # access web browser
